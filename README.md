@@ -1,5 +1,5 @@
 ## Hello there!
-### Meu nome é Felipe Ros Pegini e eu estudo engenharia de computação no Instituto maua de tecnologia!
+### Meu nome é Felipe Ros Pegini e eu estudo Engenharia de Computação no Instituto Mauá de Tecnologia!
 
 [![Linkedin Badge](https://img.shields.io/badge/-FelipePegini-blue?style=flat-rounded-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-ros-pegini-engenheiro-computacao)](https://www.linkedin.com/in/felipe-ros-pegini-engenheiro-computacao)
 
