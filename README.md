@@ -4,8 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-FelipePegini-blue?style=flat-rounded-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-ros-pegini-engenheiro-computacao)](https://www.linkedin.com/in/felipe-ros-pegini-engenheiro-computacao)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-16&layout=compact&theme=onedark)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-16&theme=onedark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-16&layout=compact&theme=synthwave)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-16&theme=synthwave&show_icons=true)
 
 ## Skills:
 <p align="center">
