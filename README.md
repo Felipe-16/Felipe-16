@@ -1,6 +1,9 @@
 ## Hello there!
-### Meu nome é Felipe Ros Pegini e eu estudo Engenharia de Computação no Instituto Mauá de Tecnologia!
+### Meu nome é Felipe Ros Pegini e eu sou formado em Engenharia de Computação pelo Instituto Mauá de Tecnologia!
+### Atualmente trabalho como analista de dados no Itaú 
+### Estudando mais e mais front end e aplicações para trabalhar como dev!
 
+#### Meu Linkedin abaixo
 [![Linkedin Badge](https://img.shields.io/badge/-FelipePegini-blue?style=flat-rounded-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-ros-pegini-engenheiro-computacao)](https://www.linkedin.com/in/felipe-ros-pegini-engenheiro-computacao)
 
 
